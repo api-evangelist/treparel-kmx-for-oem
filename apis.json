@@ -1,0 +1,52 @@
+{
+    "name": "Treparel KMX for OEM",
+    "description": "KMX is an integral part of our IP analysis toolbox. It contributes to our capability of making added value IP analyses of technologies and competitors to s",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1590-treparel-kmx-for-oem.jpg",
+    "tags": [
+        "classifications",
+        "clustering",
+        "have api",
+        "semantic",
+        "textanalytics",
+        "texts"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/treparel-kmx-for-oem\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Treparel KMX for OEM",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1590-treparel-kmx-for-oem.jpg",
+            "humanURL": "http:\/\/treparel.com\/kmx-for-oem\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/treparel-kmx-for-oem-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/treparel.com\/kmx-for-oem\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/treparel-com"
+        },
+        {
+            "type": "Email",
+            "url": "info@treparel.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Treparel"
+        }
+    ]
+}
